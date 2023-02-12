@@ -2,6 +2,8 @@
 layout: default
 ---
 
+過去在騰訊參與的專案如下
+
 ## 用戶體驗設計部（ISUX）
 
 於騰訊 SNG ISUX 擔任前端工程師期間，開發的產品圍繞 QQ 相關應用與 H5 運營頁面
@@ -95,18 +97,18 @@ layout: default
 
 <div class="showcase-gallery is-grid" itemscope itemtype="http://schema.org/ImageGallery">
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-        <a href="assets/tea-design/tea-mp/home.png" itemprop="contentUrl" data-size="585x1266">
-            <img src="assets/tea-design/tea-mp/home.png" width="100%" height="auto" itemprop="thumbnail" alt="首頁" />
+        <a href="assets/tea-design/tea-mp/home.PNG" itemprop="contentUrl" data-size="585x1266">
+            <img src="assets/tea-design/tea-mp/home.PNG" width="100%" height="auto" itemprop="thumbnail" alt="首頁" />
         </a>
     </figure>
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-        <a href="assets/tea-design/tea-mp/card.png" itemprop="contentUrl" data-size="585x1266">
-            <img src="assets/tea-design/tea-mp/card.png" width="100%" height="auto" itemprop="thumbnail" alt="Card 卡片" />
+        <a href="assets/tea-design/tea-mp/card.PNG" itemprop="contentUrl" data-size="585x1266">
+            <img src="assets/tea-design/tea-mp/card.PNG" width="100%" height="auto" itemprop="thumbnail" alt="Card 卡片" />
         </a>
     </figure>
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-        <a href="assets/tea-design/tea-mp/list.png" itemprop="contentUrl" data-size="585x1266">
-            <img src="assets/tea-design/tea-mp/list.png" width="100%" height="auto" itemprop="thumbnail" alt="List 列表" />
+        <a href="assets/tea-design/tea-mp/list.PNG" itemprop="contentUrl" data-size="585x1266">
+            <img src="assets/tea-design/tea-mp/list.PNG" width="100%" height="auto" itemprop="thumbnail" alt="List 列表" />
         </a>
     </figure>
 </div>
